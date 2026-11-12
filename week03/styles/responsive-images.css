@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 1rem;
+}
+
+header,
+main,
+footer {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    margin-top: 1rem;
+    padding: 1rem;
+    text-align: center;
+    border-top: 1px solid #ccc;
+}
